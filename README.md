@@ -29,3 +29,5 @@ This project is built as a sample for learning, practicing backend development, 
 ```bash
 git clone https://github.com/ncrehman/nodejs-express-mongodb-crud-app.git
 cd nodejs-express-mongodb-crud-app
+
+Note: This project is a personal demo inspired by real work experience. It contains no confidential or proprietary information from any employer.
