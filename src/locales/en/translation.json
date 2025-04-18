@@ -1,0 +1,10 @@
+{
+    "title": "Homepage",
+    "message": "Welcome to the Book Shop!",
+    "duplicate": "already exists",
+    "errorcreating": "Error occurred in creating",
+    "provideLoginId": "PLease provide login id",
+    "cannotupdateRestore": "Cannot update on deleted records, restore it first",
+    "alreadyDeleted": "Record already deleted",
+    "success": "Success"
+}

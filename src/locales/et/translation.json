@@ -1,0 +1,10 @@
+{
+    "title": "መነሻ ገጽ",
+    "message": "ወደ መጽሐፍ ሱቅ እንኳን በደህና መጡ!",
+    "duplicate": "አስቀድሞ አለ።",
+    "errorcreating": "በመፍጠር ላይ ስህተት ተከስቷል።",
+    "provideLoginId": "እባክዎ የመግቢያ መታወቂያ ያቅርቡ",
+    "cannotupdateRestore":"Cannot update on deleted records, restore it first",
+    "alreadyDeleted": "Record already deleted",
+     "success": "ስኬት"
+}
